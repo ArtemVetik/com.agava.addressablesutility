@@ -1,0 +1,12 @@
+{
+  "name": "com.agava.addressablesutility",
+  "version": "1.0.0",
+  "displayName": "Addressables Utility",
+  "type": "library",
+  "unity": "2021.3",
+  "description": "Tools that fix issues in Addressables system.",
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.addressables": "1.21.12"
+  }
+}
