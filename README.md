@@ -1,4 +1,4 @@
-# com.agava.webutility  
+# com.agava.addressablesutility  
   
 Make sure you have standalone [Git](https://git-scm.com/downloads) installed first.  
 In Unity, open "Window" -> "Package Manager".  
